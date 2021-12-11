@@ -1,5 +1,5 @@
 <p align="center">
-<img style="vertical-align:middle;border-radius:50%;max-width:35%;" src="docs\cyber-adapter.png" />
+<img style="vertical-align:middle" src="docs\cyber-adapter.png" />
 </p>
 <h2 align="center">
 <span>AnomalyAdapters</span>
