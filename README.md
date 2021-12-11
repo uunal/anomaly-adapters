@@ -17,6 +17,20 @@ Follow the installation at:
 
 ```https://github.com/Adapter-Hub/adapter-transformers#installation```
 
+To use mixed precision:
+
+CUDA and C++ extensions via
+```
+git clone https://github.com/NVIDIA/apex
+cd apex
+pip install -v --disable-pip-version-check --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./
+```
+
+Apex also supports a Python-only build (required with Pytorch 0.4) via
+```
+pip install -v --disable-pip-version-check --no-cache-dir ./
+```
+
 ## Special Thanks to
 [Huggingface](https://github.com/huggingface/transformers), [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers) and [Allennlp](https://github.com/allenai/allennlp) repositories
 
