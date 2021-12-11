@@ -35,4 +35,4 @@ pip install -v --disable-pip-version-check --no-cache-dir ./
 [Huggingface](https://github.com/huggingface/transformers), [adapter-transformers](https://github.com/Adapter-Hub/adapter-transformers) and [Allennlp](https://github.com/allenai/allennlp) repositories
 
 ## Logo
-Just for fun, I've created my version :)
+Just for fun, I created my version :)
