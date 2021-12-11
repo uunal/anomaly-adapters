@@ -1,9 +1,9 @@
 <p align="center">
-<img style="vertical-align:middle" src="docs\cyber-adapter.png" />
+<img style="vertical-align:middle;border-radius:50%;max-width:35%" src="docs\cyber-adapter.png" />
 </p>
-<h1 align="center">
+<h2 align="center">
 <span>AnomalyAdapters</span>
-</h1>
+</h2>
 
 <p align="center">
 Parameter-efficient Multi-Anomaly Task Detection.
