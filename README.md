@@ -1,5 +1,5 @@
 <p align="center">
-<img src="docs\cyber-adapter.png" />
+<img src="docs\adapter-anomaly.png" />
 </p>
 <h2 align="center">
 <span>AnomalyAdapters</span>
