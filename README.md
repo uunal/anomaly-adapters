@@ -7,8 +7,10 @@
 
 <p align="center">
 Parameter-efficient Multi-Anomaly Task Detection.
-This work is under review.
 </p>
+
+## Published at
+DOI: https://doi.org/10.1109/ACCESS.2022.3141161
 
 ## Testing
 Latest test are done with `adapter-transformers@V2.2.0a1` 
